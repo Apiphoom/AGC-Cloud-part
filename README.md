@@ -4,5 +4,4 @@ https://logistic.pupu.life/
 # laravel frame work
 we use laravel frame work to build and get poto admin interface 
 
-#CopyRight
-Api Development
+@CopyRight 2020 Api-Development
